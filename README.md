@@ -1,2 +1,2 @@
 # cran_apple
-For learning!
+For learning! :)
